@@ -1,16 +1,12 @@
 #include <stdio.h>
 
-
-
 /**
  *
- *  * main - texto
+ * main - texto
+ * Return: text in printf 
  *
- *   *
- *
- *    * Return: text in printf
- *
- *     */
+ * Description: a C program that prints exactly with proper grammar, but the outcome is a piece of art
+ */
 
 
 
