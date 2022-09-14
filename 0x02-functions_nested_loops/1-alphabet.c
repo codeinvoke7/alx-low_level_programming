@@ -3,15 +3,10 @@
 
 
 /**
-
  *print_alphabet - Alphabet in lowercase
-
  *
-
  *Return:0
-
- *
-
+ *Desc: print alphabet in lowercase
  */
 
 void print_alphabet(void)
