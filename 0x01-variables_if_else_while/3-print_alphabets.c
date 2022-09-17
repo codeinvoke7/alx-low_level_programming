@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
-* main - Prints the alphabetic in lower and upper case
+*main - Prints the alphabetic in lower and upper case
 *
-* Return: Always (success)
+*Return: Always (success)
 */
-
 int main(void)
 {
 	char c;
+
 	for (c = 'a'; c <= 'z'; c++)
 	{
 		putchar (c);
